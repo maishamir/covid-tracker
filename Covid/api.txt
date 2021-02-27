@@ -1,0 +1,2 @@
+world api = "https://corona.lmao.ninja/v3/covid-19/all"
+country api = "https://corona.lmao.ninja/v3/covid-19/countries#"
